@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+td{
+    border : 1px solid black;
+}
+h3{
+    font-family: Avenir, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+#EndMsg {
+    background-color: burlywood; 
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    width: 500px;
+
+}
